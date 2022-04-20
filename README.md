@@ -14,7 +14,7 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas 😄 Me conside
 Eu me vejo em um futuro próximo como Desenvolvedor ou como um Tester de Softwares e aplicações.
 <br/>
 <div align="center">
- <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>  <img src="https://user-images.githubusercontent.com/83739628/147862737-33f8ebf8-4d9e-4da6-93d8-9db063a0fe3f.png" width="48px"> 
+ <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>  
 <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png"/> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </div><br/>
 
