@@ -30,8 +30,7 @@ Eu me vejo em um futuro próximo como Desenvolvedor ou como um Tester de Softwar
 
 
 
-- Thanks for visiting.
+ Obrigado pela visita.
 
-- Enjoy it!! o/
  
- Icons by: https://icons8.com.br/
+ Ícones por: https://icons8.com.br/
