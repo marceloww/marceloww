@@ -1,17 +1,17 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world! Eu sou Marcelo Faria!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
-🖥️ Full Stack Developer and Quality Assurance (QA)!
+🖥️ Full Stack Developer!
 
 🗺️ Sou de Uberlândia-MG, Brasil.
 
-📚 Atualmente estou aprendendo tudo sobre desenvolvimento web e Quality Assurance.
+📚 Atualmente estou aprendendo tudo sobre tecnologias e desenvolvimento web.
 
  
 ## Sobre mim
 
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas 😄 Me considero ágil, criativo e consistente em aprender e me adaptar a qualquer mudança, pronto para superar qualquer desafio! Sempre me dizem que é fácil para mim fazer novos amigos e lidar com as pessoas ☺️ Se eu pudesse me definir em 3 palavras, com certeza seria: otimista, criativo e trabalhador!
-Eu me vejo em um futuro próximo como Desenvolvedor ou como um Tester de Softwares e aplicações.
+Eu me vejo em um futuro próximo como Desenvolvedor.
 <br/>
 <div align="center">
  <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>  
