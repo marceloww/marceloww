@@ -5,16 +5,12 @@
 
 🗺️ Sou de Uberlândia-MG, Brasil.
 
-📚 Atualmente estou aprendendo tudo sobre tecnologias e desenvolvimento web.
+📚 Atualmente estou aprendendo tudo sobre tecnologias e automação de processos.
 
- 
-## Sobre mim
 
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas 😄 Me considero ágil, criativo e consistente em aprender e me adaptar a qualquer mudança, pronto para superar qualquer desafio! Sempre me dizem que é fácil para mim fazer novos amigos e lidar com as pessoas ☺️ Se eu pudesse me definir em 3 palavras, com certeza seria: otimista, criativo e trabalhador!
 <br/>
 <div align="center">
- <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>  
-<img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/>
+ <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </div><br/>
 
 
