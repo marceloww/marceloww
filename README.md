@@ -23,7 +23,7 @@
 
 [<img src="https://img.icons8.com/office/32/000000/whatsapp--v3.png" alt="Whatsapp logo" >](https://wa.me/5534996849987?text=Hi%21+I+see+your+profile+on+github)   [<img src="https://img.icons8.com/color/35/000000/telegram-app--v5.png" alt="Telegram logo" >](https://t.me/marceloww4)   [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/marcelo-macedo-7265ba137/)   [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/marceloww)   [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:marceloufu@outlook.com)
 
-<img src="https://img.icons8.com/officel/16/000000/selenium-test-automation.png" height="32">
+
 
 
 
